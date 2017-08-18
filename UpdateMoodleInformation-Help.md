@@ -297,14 +297,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## INPUTS
 
-### System.String
-
-
 ## OUTPUTS
 
 ## NOTES
 
-Created by djacobs@hbs.net
+Created by Donald Jacobs
 Created on 2017-08-17
 
 If you get tired of putting the API Token and URI in each time, and this script will stay pretty much the same, you can change the default values in the Param section to your defaults, but then change mandatory to false.
